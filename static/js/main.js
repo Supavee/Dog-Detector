@@ -3,7 +3,6 @@ $(document).ready(function () {
     $('.image-section').hide();
     $('.loader').hide();
     $('#result').hide();
-
     $('#info').hide();
     $('#text1').hide();
     $('#text2').hide();
@@ -29,13 +28,11 @@ $(document).ready(function () {
         $('#text1').text('');
         $('#text2').text('');
         $('#text3').text('');
-
         $('#result').hide();
         $('#info').hide();
         $('#text1').hide();
         $('#text2').hide();
         $('#text3').hide();
-        // $('#head').hide();
         readURL(this);
     });
 
@@ -176,7 +173,6 @@ function w3_close() {
   document.getElementById("myOverlay").style.display = "none";
   console.log('close');
 }
-
 // Modal Image Gallery
 function onClick(element) {
   document.getElementById("img01").src = element.src;
