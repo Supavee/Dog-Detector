@@ -126,7 +126,7 @@ myObj = { "INFORMATION": [
     {
       "USERNAME": "Jew",
       "TEL": "025898418",
-      "ADDRESS153": "153 4Th Floor The Peninsula Plaza Bluilding Ratchadamri Road Lumpini,\nA.chom Thong, Bangkok, 10330, Thailand"
+      "ADDRESS": "153 4Th Floor The Peninsula Plaza Bluilding Ratchadamri Road Lumpini,\nA.chom Thong, Bangkok, 10330, Thailand"
     },
     {
       "USERNAME": "Jai",
@@ -141,7 +141,7 @@ myObj = { "INFORMATION": [
     {
       "USERNAME": "Jane",
       "TEL": "0896354781",
-      "ADDRESS22": "/5 Gp 5 Chimplee Chimplee Taling Chan,Bangkok, 10170, Thailand"
+      "ADDRESS": "22/5 Gp 5 Chimplee Chimplee Taling Chan,Bangkok, 10170, Thailand"
     },
     {
       "USERNAME": "Jin",
